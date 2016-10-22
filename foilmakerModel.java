@@ -3,5 +3,5 @@
  * captures data (questions, word suggestions, etc. received from the	server)
  */
 public class foilmakerModel {
-
+//Tiffany here
 }
